@@ -4,7 +4,7 @@ Herramienta escrita en python para descubrir subdominios, específicamente orien
 
 Uso:
 
-python3 vhost-finder.py <IP objetivo> <dominio base objetivo> <diccionario de subdominios> [opciones]
+python3 vhost-finder.py &lt;IP objetivo&gt; &lt;dominio base objetivo&gt; &lt;diccionario de subdominios&gt; [opciones]
 
 Opciones:
 --insecure : para usar http en lugar de https
